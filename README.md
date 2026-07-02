@@ -4,4 +4,4 @@
 * Created a design plan for the application.
 * Created the base Spring-Boot project and setup SQLite DB
 * Created URL Entity Model
-<img width="2766" height="1988" alt="image" src="https://github.com/user-attachments/assets/d1c74d21-68c5-42fb-838c-8c84cec8b940" />
+
