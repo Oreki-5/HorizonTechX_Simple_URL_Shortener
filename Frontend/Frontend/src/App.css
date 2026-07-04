@@ -1,0 +1,64 @@
+.inpTxt {
+  width: 50vw;
+  height: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  @media (max-width: 400px) {
+    width: 73vw;
+    /* background-color: blue; */
+  }
+}
+
+h1{
+  margin-bottom: 50px;
+}
+
+.inputBox {
+  margin-bottom: 10px;
+}
+
+.submitBtn {
+  width: 150px;
+  height: 40px;
+  font-size: 15px;
+  font-weight: 700;
+  @media (max-width: 400px) {
+    width: 100px;
+    height: 40px;
+    /* background-color: blue; */
+  }
+}
+
+.btnBox {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.captionText {
+  font-size: 15px;
+  color: rgba(154, 154, 167, 0.633);
+  margin-bottom: 10px;
+}
+
+.outputTxt {
+  width: 250px;
+  height: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  @media (max-width: 400px) {
+    width: 200px;
+    /* background-color: blue; */
+  }
+}
+
+.copyBtn {
+  margin-left: 15px;
+  height: 30px;
+  background-color: rgba(33, 33, 33, 0.324);
+  border-color: rgb(141, 141, 141);
+  border-style: dashed;
+}
+
+.copyMsg{
+
+}
