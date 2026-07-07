@@ -9,3 +9,9 @@
 * Developed the Core Functionality of the Backend.
 * Added a GET endpoint which redirects to the original log url
 * Added a POST /shorten endpoint which takes a valid url, stores it in database and returns shortened url as a response. If the url already exists in the database, it directly returns its shortened url.
+
+ Log #3 | 04/07/2026
+* Developed a simple React.js Frontend with responsive layout
+* Added a copy to clipboard feature to easily copy the shortened URL.
+* Code cleanup
+
