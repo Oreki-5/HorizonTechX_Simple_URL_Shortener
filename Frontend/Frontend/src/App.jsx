@@ -55,8 +55,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>Shorten your</h1>
-        <h1>----&gt;| URL |&lt;-----</h1>
+        <h1>Shorty</h1>
+        <h2>-----&gt;| URL Shortener |&lt;-----</h2>
       </div>
       <form id="former">
         <div className="inputBox">
