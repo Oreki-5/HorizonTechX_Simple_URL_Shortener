@@ -32,7 +32,8 @@ cd HorizonTechX_Simple_URL_Shortener/Backend/UrlShortener
 ```
 cd HorizonTechX_Simple_URL_Shortener/Frontend/Frontend
 ```
-6. Run the React app:
+6. Install and Run the React app:
 ```
+npm install
 npm run dev
 ```
