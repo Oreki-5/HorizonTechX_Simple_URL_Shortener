@@ -2,18 +2,18 @@
 
 A Simple application which takes any valid and long URL and converts it into short, sharable links.
 
-# Features:
+## Features:
 - Convert long URLs into short links.
 - Redirect user to the original URL from the generated short URL.
 - Input URL validation to prevent spam inputs.
 - No URL collision.
 - Simple UI with copy-to-clipboard feature.
 
-# Requirements:
+## Requirements:
 - Java 21 or higher
 - Node.js v25.9.0 or higher
 
-# Instrctions to run
+## Instrctions to run
 
 1. Clone the Repo:
 ```
