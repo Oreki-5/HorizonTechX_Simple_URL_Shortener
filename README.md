@@ -21,7 +21,7 @@ git clone https://github.com/Oreki-5/HorizonTechX_Simple_URL_Shortener.git
 ```
 3. Change directory to backend application
 ```
-cd Backend/UrlShortener
+cd HorizonTechX_Simple_URL_Shortener/Backend/UrlShortener
 ```
 4. Build and Run the Spring boot application
 ```
@@ -30,7 +30,7 @@ cd Backend/UrlShortener
 ```
 6. Open the Frontend directory in another instance of command-line
 ```
-cd Frontend/Frontend
+cd HorizonTechX_Simple_URL_Shortener/Frontend/Frontend
 ```
 6. Run the React app:
 ```
