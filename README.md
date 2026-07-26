@@ -17,7 +17,7 @@ A Simple application which takes any valid and long URL and converts it into sho
 
 1. Clone the Repo:
 ```
-git clone https://github.com/Oreki-5/HorizonTechX_Simple_URL_Shortener/edit/main
+git clone https://github.com/Oreki-5/HorizonTechX_Simple_URL_Shortener.git
 ```
 3. Change directory to backend application
 ```
