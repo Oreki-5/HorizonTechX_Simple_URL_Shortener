@@ -10,8 +10,8 @@ A Simple application which takes any valid and long URL and converts it into sho
 - Simple UI with copy-to-clipboard feature.
 
 # Requirements:
-- Java 21
-- Node.js
+- Java 21 or higher
+- Node.js v25.9.0 or higher
 
 # Instrctions to run
 
